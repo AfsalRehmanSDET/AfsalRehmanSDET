@@ -45,5 +45,10 @@ I'm always looking to expand my skill set. Currently, I'm focusing on:
   </a>
 </p>
 
+# Hi there, I'm Afsal Rehman U 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20CF4A&background=00000000&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;API+Automation+Specialist;Always+learning+and+growing" alt="Typing SVG" /></a>
+
+
 
 
