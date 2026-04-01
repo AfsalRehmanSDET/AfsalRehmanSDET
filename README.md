@@ -36,6 +36,14 @@ I'm always looking to expand my skill set. Currently, I'm focusing on:
 
 ### 📫 How to Reach Me
 
-*   **Email:** [afsalrehman.u@gmail.com)
-*   **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/afsal-rehman-sdet/)
+<p align="left">
+  <a href="mailto:afsalrehman.u@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/afsal-rehman-sdet/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 
