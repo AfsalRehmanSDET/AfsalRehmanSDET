@@ -20,8 +20,9 @@ Here are some of the projects I'm proud of.
 
 | Project Name                                                              | Description                                                                                                                                      |
 | :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[playwright-automation-suite](https://github.com/AfsalRehmanSDET/playwright-automation-suite)** | Built a scalable Playwright automation framework integrating UI and API testing with data-driven design and maintainable architecture. |
 | **[api-automation-restassured](https://github.com/AfsalAnonymous/api-automation-restassured)** | An API automation framework for the Restful-booker API using Java, RestAssured, and TestNG. It covers full CRUD operations with a data-driven approach. |
-| *(Add another project here)*                                                  | *(Briefly describe your next project and what you learned from it.)*                                                                          |
+
 
 ---
 
