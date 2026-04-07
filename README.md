@@ -6,11 +6,10 @@ I'm a passionate Quality Assurance Engineer with a strong focus on API test auto
 
 ### 🔧 Technologies & Tools
 
-*   **Languages:** Java,JavaScript
-*   **API Testing:** RestAssured, Postman
+*   **Languages:** Java,JavaScript,TypeScript
+*   **API Testing:** RestAssured, Postman, Playwright
 *   **Frameworks:** Page Object Model, Playwright
 *   **CI/CD:** Jenkins, Git, GitHub
-*   **Databases:** MySQL, PostgreSQL
 
 ---
 
@@ -32,6 +31,7 @@ I'm always looking to expand my skill set. Currently, I'm focusing on:
 
 *   Performance testing with JMeter.
 *   Containerization with Docker.
+*   E2E Mobile Automation Framework 
 
 ---
 
