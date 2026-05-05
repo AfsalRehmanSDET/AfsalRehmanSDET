@@ -21,6 +21,7 @@ Here are some of the projects I'm proud of.
 | :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[playwright-automation-suite](https://github.com/AfsalRehmanSDET/playwright-automation-suite)** | Built a scalable Playwright automation framework integrating UI and API testing with data-driven design and maintainable architecture. |
 | **[api-automation-restassured](https://github.com/AfsalAnonymous/api-automation-restassured)** | An API automation framework for the Restful-booker API using Java, RestAssured, and TestNG. It covers full CRUD operations with a data-driven approach. |
+| **[selenium-java-framework](https://github.com/AfsalRehmanSDET/selenium-java-framework)** | A robust web UI test automation framework using Java, Selenium WebDriver, and TestNG. It enables scalable cross-browser testing with a structured, Maven-driven approach. |
 
 
 ---
